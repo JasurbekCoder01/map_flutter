@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MapFlutter</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoiamFzdXJiZWswMSIsImEiOiJjbDlpaDRrYWgwMXFhM3FtbmZiN256cXpwIn0.-DwhEOb-IMbhIlKCKAy29A</string>
+</resources>
